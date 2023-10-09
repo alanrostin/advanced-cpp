@@ -1,0 +1,3 @@
+/home/alanrostin/ARTFX/advanced-cpp/cpp-games/the-weapon-shop/cmake-build-debug/CMakeFiles/the_weapon_shop.dir
+/home/alanrostin/ARTFX/advanced-cpp/cpp-games/the-weapon-shop/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alanrostin/ARTFX/advanced-cpp/cpp-games/the-weapon-shop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
