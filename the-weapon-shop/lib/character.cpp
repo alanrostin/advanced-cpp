@@ -14,6 +14,8 @@ Character::Character(const std::string& first_name,
     m_class = ch_class;
 }
 
+Character::~Character() = default;
+
 std::string Character::GetName()
 {
     return m_first_name + " " + m_last_name;
